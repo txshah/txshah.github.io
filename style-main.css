@@ -7,13 +7,13 @@
     margin: 0;
 
     /*primary colors*/
-    --color-primary: #4f772d;
-    --color-secondary: #90A955;
-    --color-tertiary: #bccb99;
-    --color-quartiary: #d2dcbb;
-    --color-cinq: #d7e1c4;
+    --color-primary: #43037f;
+    --color-secondary: #571298;
+    --color-tertiary: #865cad;
+    --color-quartiary: #b89ad4;
+    --color-cinq: #dccaee;
     
-    --color-secondary-dark: #35511f;
+    --color-secondary-dark: #430a77;
     --color-secondary-darkest: #111a0a;
 
     --color-secondary-light: #eaeaea;
