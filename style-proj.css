@@ -1,9 +1,9 @@
 .projects-wrapper{
-    margin: 2vw;
+    margin: 1vw;
     margin-top: 0vw;
     margin-bottom: 2vw;
     text-align: left;
-    width: 745px;
+    width: 645px;
     height: 500px;
 }
 
@@ -20,8 +20,8 @@
 }
 
 .projects-desc{
-    text-align:center;
-    width: 250px;
+    text-align:left;
+    width: auto;
 }
 
 .projects-img:hover{
@@ -34,7 +34,6 @@
     border-radius: 10px;
     background-color: rgba(255,255,255,0.5);
     padding: 5px;
-    align-items: center;
 }
 
 .projects-wrapper h1{
@@ -54,11 +53,10 @@
 }
 
 .projects-wrapper h4{
-    width: 250x;
+    width: 150px;
     color: var(--color-secondary-darkest);
     margin-bottom: 0.3vw;
     font-size: 12px;
-    text-align: center;
 }
 
 .projects-wrapper h5{
@@ -69,8 +67,7 @@
     font-weight: 500;
     font-size: 10px;
     border-radius: 10px;
-    width: 250px;
-    text-align: center;
+    width: 150px;
 }
 
 .projects-wrap h6{
