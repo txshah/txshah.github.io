@@ -18,7 +18,7 @@
 
     --color-secondary-light: #eaeaea;
     --color-secondary-lightest: #d2d2d2;
-    --color-arb: #BEBDAF;
+    --color-arb:  #dbd2e4;
     
     /*background colors*/
     --color-backup-one: #ffffdb;
@@ -190,7 +190,7 @@ img {
 }
 
 .carousel{
-    color: #35511f;
+    color: #571298;
     font-weight: 500;
 }
 .wavy{
