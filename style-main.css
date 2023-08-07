@@ -51,8 +51,8 @@
     background-color: rgba(var(--padding-border),0.3);
     border: 1px solid rgba(var(--padding-border),0.6);
     backdrop-filter: blur(2px);
-    height: 570px;
-    width: 660px;
+    height: 300px;
+    width: 300px;
     position: fixed;
     right: calc(50% - 440px);
     transform: translateY(-50%);
@@ -133,8 +133,8 @@ a:visited{
 .content{
     border: 20px solid var(--color-cinq);
     background-color: var(--color-cinq);
-    width: 660px;
-    height: 500px;
+    width: 800px;
+    height: 600px;
     overflow: hidden;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
