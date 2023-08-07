@@ -58,6 +58,7 @@
     margin-bottom: 0.3vw;
     font-size: 12px;
     text-align: center;
+    align-items: center;
 }
 
 .projects-wrapper h5{
