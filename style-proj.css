@@ -1,9 +1,9 @@
 .projects-wrapper{
-    margin: 1vw;
+    margin: 2vw;
     margin-top: 0vw;
     margin-bottom: 2vw;
     text-align: left;
-    width: 645px;
+    width: 745px;
     height: 500px;
 }
 
@@ -21,7 +21,7 @@
 
 .projects-desc{
     text-align:left;
-    width: auto;
+    width: 250px;
 }
 
 .projects-img:hover{
