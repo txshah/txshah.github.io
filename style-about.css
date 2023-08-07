@@ -94,6 +94,7 @@
     width: min-content;
     margin: auto;
     animation: float 2s infinite linear;
+    align-items: center;
     
 }
   
