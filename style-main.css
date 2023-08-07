@@ -37,7 +37,7 @@
 
 #main {
     padding: 80px;
-    width: 540px;
+    width: 600px;
     position: absolute;
     right: calc(50% - 300px);
     transform: translateY(-50%);
