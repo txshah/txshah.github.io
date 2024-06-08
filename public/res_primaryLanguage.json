@@ -1,0 +1,135 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Tvesha Shah. A Software Egineering Student at McMaster University:) I'm working with various new technologies to better understand data processing and applications for ML and AI. In my free time I also love to read, swim and dance as a part of McMaster's Rec Dance Team :)",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Credit Risk Prediction Model",
+        "startDate": "2024",
+        "description": "Personal project that first started my interest in using ML and AI algorithms for data processing. Project is an example of using XGBoost classifier to predict credit default based on a given dataset.",
+        "images": [
+          "images/portfolio/p1/project1pic1.png",
+          "images/portfolio/p1/project1pic2.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-pandas-plain",
+            "name": "Pandas"
+          }
+        ]
+      },
+      {
+        "title": "Island Exploration",
+        "startDate": "2024",
+        "description": "Worked in a team to program a drone simulation to explore, navigate and collect data on various islands. This project allowed me to better understand software desgin and create our own algorithm for map exploration",
+        "images": [
+          "images/portfolio/p2/p2.png",
+          "images/portfolio/p2/p2p1.png"
+        ],
+        "url": "https://github.com/2AA4-W24/a2-rescue-mission-team-120",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          }
+        ]
+      },
+      {
+        "title": "Maze Path Finder",
+        "startDate": "2023",
+        "description": "Create a Maze Solver that finds possible outputs through various algorithms and validates user inputs. Implemented a modified Breadth-First Search algorithm into the program to find the shortest path.",
+        "images": [
+          "images/portfolio/p3/p1p1.png",
+          "images/portfolio/p3/p1p2.png"
+        ],
+        "url": "https://github.com/txshah/a3-maze-runner-take-two-txshah",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "CPP (Canadian Pension Plan) Investments",
+        "title": "Intern Analyst",
+        "years": "05.2024 - 08.2024",
+        "mainTech": [
+          "Data Analysis"
+        ],
+        "technologies": [
+          "Fast API",
+          "React",
+          "JavaScript",
+          "Python",
+          "Typscript",
+          "MySQL",
+          "GenAI",
+          "Pandas",
+          "Numpy",
+          "Bloomberg",
+          "Excel"
+        ]
+      },
+      {
+        "company": "Multimatic Inc.",
+        "title": "Intern Business Solutions Analyst",
+        "years": "05.2023 - 08.2023",
+        "mainTech": [
+          "SQL + Python"
+        ],
+        "technologies": [
+          "Python",
+          "Microsoft Power Platform",
+          "Power BI",
+          "Excel",
+          "SQL"
+        ]
+      },
+      {
+        "company": "McMaster Formula Electric",
+        "title": "Software and Vehicle Control Team",
+        "years": "09.2022 - Present",
+        "mainTech": [
+          "Git"
+        ],
+        "technologies": [
+          "Git",
+          "Embedded C",
+          "Github Actions",
+          "Unix",
+          "Docker"
+        ]
+      }
+    ]
+  }
